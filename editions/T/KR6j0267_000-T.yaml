@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0267/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 番大悲神呪
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1063.xml
+    old_id: T20n1063
+hash: sha256:6e3aa35a739bcf8efd0e09c1632571459edd6c4ba29f7d17548515daf37db574
