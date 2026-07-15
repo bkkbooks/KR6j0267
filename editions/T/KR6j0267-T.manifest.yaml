@@ -25,7 +25,13 @@ assets:
   - {seq: 0, role: markers, filename: assets/KR6j0267_000-T.markers.yaml, hash: 'sha256:ea618ebaa0d1546081c7795865297dfd0fcd2e981a4386234aa7a8847f9b087d'}
   - {seq: 1, role: markers, filename: assets/KR6j0267_001-T.markers.yaml, hash: 'sha256:c5294b0e723eaa8bc090fa9dc259c59f75737d3ff6b2fe83f7dc30116abc7e13'}
 table_of_contents:
-- ref: {seq: 1, marker_id: KR6j0267_T_001-juan-start, span: [body, 0, 1291]}
+- ref:
+    seq: 1
+    marker_id: KR6j0267_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1291
   label: 番大悲神呪
   type: juan
   level: 1

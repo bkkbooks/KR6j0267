@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0267/v1
 canonical_location: https://kanripo.org/bkk/KR6j0267/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 番大悲神呪
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0267_000.yaml, hash: 'sha256:6e3aa35a739bcf8efd0e09c1632571459edd6c4ba29f7d17548515daf37db574'}
-  - {seq: 1, filename: KR6j0267_001.yaml, hash: 'sha256:cada589aa1b00706c55ab84788a6c079e8e7e6778e5158d4a347d196261003fd'}
+  - {seq: 1, filename: KR6j0267_001.yaml, hash: 'sha256:6feb228c64b396358c40ce25f2ca448bcbb7d5ff777d811182f9c5b8a4be7e4a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0267_000.markers.yaml, hash: 'sha256:150222bdf2fa1079120d61674ba24eda0430703b70c01f154986b18d833e3758'}
-  - {seq: 1, role: markers, filename: assets/KR6j0267_001.markers.yaml, hash: 'sha256:0a53ca6bb0806de7da4f998160386580c716326a119357f951229c23ab800530'}
+  - {seq: 1, role: markers, filename: assets/KR6j0267_001.markers.yaml, hash: 'sha256:3be657741ec2604cf0278750ddc9b811e51d19fb85a9e3dfa7deedab30a8a4c4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 番大悲神呪
   type: juan
   level: 1
-hash: sha256:2e7ad7ffd15ab6ed7443398a27ceb577bcc9008cb7a385b42d810107b0dd7b64
+hash: sha256:f25b710767f0b2dc734c1a0c7e76be08c0f185b25ddcbcf61da99be79245d849
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
